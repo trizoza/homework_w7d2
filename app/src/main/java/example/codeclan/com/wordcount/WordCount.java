@@ -8,13 +8,19 @@ public class WordCount {
 
     private String sentence;
 
-    public WordCount() {
+    public WordCount(String sentence) {
         this.sentence = sentence;
     }
 
-    public String getS
+    public String getSentence() {
+        return sentence;
+    }
 
-    public int getWordCount(String sentence) {
+    public void setSentence(String newSentence) {
+        this.sentence = newSentence;
+    }
+
+    public int getWordCount() {
         int count = 1;
             for (int i=0; i<=sentence.length()-1; i++) {
                 if (sentence.charAt(i) == ' ' && sentence.charAt(i+1)!=' ') {
