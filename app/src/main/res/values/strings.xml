@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Word Count</string>
+    <string name="main_screen_name">Word Count</string>
+    <string name="sentence">Type a sentence...</string>
+    <string name="calc">Calculate word count</string>
+    <string name="word_count"></string>
+</resources>

@@ -1,7 +1,0 @@
-#Tue Jan 17 23:35:53 GMT 2017
-base.0=/Users/user/week_7/day_1/AndroidProject/WordCount/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eaeb798698833b74337e81282b6e7eac8a939d63
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/user/week_7/day_1/AndroidProject/WordCount/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e4bf1c3be63708acaf9eb94d7fb62b04513337fa/classes.dex
-base.1=/Users/user/week_7/day_1/AndroidProject/WordCount/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e4bf1c3be63708acaf9eb94d7fb62b04513337fa
-file.0=/Users/user/week_7/day_1/AndroidProject/WordCount/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eaeb798698833b74337e81282b6e7eac8a939d63/classes.dex
